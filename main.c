@@ -322,6 +322,3 @@ int main(int argc, char **argv)
 
   return EXIT_SUCCESS;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
